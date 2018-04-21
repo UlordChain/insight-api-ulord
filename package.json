@@ -1,7 +1,7 @@
 {
   "name": "insight-api-ulord",
   "description": "A Ulord blockchain REST and web socket API service for Bitcore Node.",
-  "version": "0.1.0",
+  "version": "0.1.0", 
   "repository": {
     "type": "git",
     "url": "git://github.com/UlordChain/insight-api-ulord.git"
