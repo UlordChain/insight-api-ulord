@@ -4,14 +4,14 @@ A Ulord blockchain REST and web socket API service for [Bitcore Node Ulord](http
 
 This is a backend-only service. If you're looking for the web frontend application, take a look at https://github.com/UlordChain/insight-ui-ulord.
 
-## Getting Started
+## Quick development guide
 
-```bashl
-npm install -g bitcore-node-ulord@latest
-bitcore-node-ulord create mynode
-cd mynode
-bitcore-node-ulord install insight-api-ulord
-bitcore-node-ulord start
+Please refer to [https://github.com/UlordChain/insight-ui-ulord/wiki](https://github.com/UlordChain/insight-ui-ulord/wiki), and you will know how to build a block browser.
+
+## Start
+
+```bash
+git clone https://github.com/UlordChain/insight-api-ulord.git
 ```
 
 The API endpoints will be available by default at: `http://localhost:3001/insight-api-ulord/`
